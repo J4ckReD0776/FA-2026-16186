@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // Solicitar el número decimal
+            Console.Write("Introduce un número decimal: ");
+            double numero = double.Parse(Console.ReadLine());
+
+            // Operaciones
+            double raizCuadrada = Math.Sqrt(numero);
+            double redondeado = Math.Round(numero);
+            double alCubo = Math.Pow(numero, 3);
+            double raizCubica = Math.Pow(numero);
+
+            // Mostrar resultados
+            Console.WriteLine("\n--- Resultados ---");
+            Console.WriteLine("Raíz cuadrada: " + raizCuadrada);
+            Console.WriteLine("Redondeado: " + redondeado);
+            Console.WriteLine("Elevado al cubo: " + alCubo);
+            Console.WriteLine("Raíz cúbica: " + raizCubica);
+
+
+        }
+    }
+}
