@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cant.desums", "cant.desums\cant.desums.csproj", "{182EAE70-3BC2-4E71-AC05-E1265E6D6085}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "semana5.py", "semana5.py\semana5.py.pyproj", "{0CB5A635-3ED2-484C-80C3-910D871FB4AF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "While.num", "While.num\While.num.pyproj", "{B901D48B-BF7A-4CAE-B7B5-D22098959D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182EAE70-3BC2-4E71-AC05-E1265E6D6085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182EAE70-3BC2-4E71-AC05-E1265E6D6085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182EAE70-3BC2-4E71-AC05-E1265E6D6085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182EAE70-3BC2-4E71-AC05-E1265E6D6085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB5A635-3ED2-484C-80C3-910D871FB4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB5A635-3ED2-484C-80C3-910D871FB4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B901D48B-BF7A-4CAE-B7B5-D22098959D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B901D48B-BF7A-4CAE-B7B5-D22098959D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A737EFC-228D-4302-AA04-3AF0F5F441A5}
+	EndGlobalSection
+EndGlobal
